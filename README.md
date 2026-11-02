@@ -17,7 +17,8 @@ EduSphere Journal is an open-access educational web platform curated to share pe
 
 ## 🚀 Live Demo
 Access the live website hosted on GitHub Pages:
-- Live Demo: [EduSphere Journal on GitHub Pages](https://github.io)
+- 🌐 **Live Website:** [https://jspx1.github.io/edusphere-journal/](https://jspx1.github.io/edusphere-journal/)
+- 📄 Direct file view: [https://jspx1.github.io/edusphere-journal/joseph.html](https://jspx1.github.io/edusphere-journal/joseph.html)
 
 ## 🛠️ Built With
 - **HTML5 & Vanilla CSS**
